@@ -13,9 +13,6 @@
       <img src='https://img.shields.io/badge/Telegram-blue?logo=telegram&style=plastic' alt='Telegram Link'/>
     </a>
    </div>
-  <div align='center'>
-    <img src="https://komarev.com/ghpvc/?username=olegsolomatin&style=plastic&color=brightgreen" alt="GitHub"/>
-  </div>
   <h1 align='center'>
     Hi there 👋
   </h1>
