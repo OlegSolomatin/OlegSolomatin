@@ -60,7 +60,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olegsolomatin&theme=blueberry&hide_border=true&border_radius=10&locale=ru)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olegsolomatin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olegsolomatin&layout=compact&theme=blueberry&hide_border=true&border_radius=10&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
     
 </main>
 
